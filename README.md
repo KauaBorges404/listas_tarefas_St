@@ -11,8 +11,7 @@ O projeto consiste em um aplicativo simples de **Lista de Tarefas** que permite 
 - ➕ Adicionar novas tarefas à lista.
 - ✅ Visualizar tarefas com caixas de seleção (checkbox).
 - ❌ Excluir tarefas individuais da lista.
-- 🔄 Gerenciamento de estado temporário com `st.session_state` (evita que a lista suma ao atualizar a página).
-
+- 🔄 Gerenciamento de estado temporário com `st.session_state`.
 ---
 
 ## 🛠️ Tecnologias Utilizadas
