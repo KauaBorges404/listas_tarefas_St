@@ -9,8 +9,8 @@ O projeto consiste em um aplicativo simples de **Lista de Tarefas** que permite 
 ## ✨ Funcionalidades
 
 - ➕ Adicionar novas tarefas à lista.
-- ✅ Visualizar tarefas com caixas de seleção (checkbox).
-- ❌ Excluir tarefas individuais da lista.
+- ✅ marcar tarefas concluídas com caixas de seleção (checkbox).
+- ❌ Excluir tarefas da lista.
 - 🔄 Gerenciamento de estado temporário com `st.session_state`.
 ---
 
